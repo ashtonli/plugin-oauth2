@@ -69,7 +69,7 @@ metadata:
   labels:
     auth.halo.run/auth-binding: "true"
 spec:
-  displayName: SSO
+  displayName: VanCloud One-ID
   description: Custom Single Sign-On (SSO) OAuth2 Provider.
   logo: /plugins/plugin-oauth2/assets/static/sso.svg
   authenticationUrl: /oauth2/authorization/sso
